@@ -15,10 +15,10 @@
   
   <br/><br/>
 
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://www.linkedin.com/in/davi-lima-4695b3211/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:daviflimaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -57,7 +57,7 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 #### 📂 Showcase (Open Source)
 | Projeto | Descrição | Techs / Arquitetura |
 | :--- | :--- | :--- |
-| 🤖 **[AI Data Assistant (Text-to-SQL)](https://github.com/DaviFLimaAndrade/ai-data-assistant)** | Agente inteligente que converte linguagem natural em consultas SQL complexas com execução segura e sistema de auto-correção via LLM. | `FastAPI` `Next.js 15` `Gemini 3 Flash` `SQLite` |
+| 🤖 **[AI Data Assistant (Text-to-SQL)](https://github.com/DaviFLimaAndrade/-AI-Data-Assistant-Text-to-SQL-PoC-)** | Agente inteligente que converte linguagem natural em consultas SQL complexas com execução segura e sistema de auto-correção via LLM. | `FastAPI` `Next.js 15` `Gemini 3 Flash` `SQLite` |
 
 #### 🏢 Enterprise & Corporativos (NDA)
 *Devido a restrições de propriedade intelectual e acordos de confidencialidade, o código-fonte destes projetos é privado.*
