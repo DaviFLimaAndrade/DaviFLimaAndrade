@@ -67,6 +67,13 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 | 👁️ **PackAI** | Sistema de visão computacional e inspeção inteligente de embalagens baseado em IA. Premiado como melhor solução regional de embalagens da América Latina. | `Python` `YOLO` `OpenCV` `FastAPI` |
 | 🌌 **Sirius** | Plataforma de previsão de vendas e demanda baseada em modelos temporais (SARIMA) premiado em Hackhaton corporativo. | `Python` `FastAPI` `Docker` `SQL` |
 
+<div align="center">
+
+### 📈 Estatísticas
+
+![Metrics](https://raw.githubusercontent.com/DaviFLimaAndrade/DaviFLimaAndrade/main/github-metrics.svg)
+
+</div>
 ---
 
 <br/>
