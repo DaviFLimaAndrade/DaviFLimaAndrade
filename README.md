@@ -50,7 +50,6 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 
 </div>
 
----
 
 ### 🚀 Projetos em Destaque
 
@@ -74,7 +73,6 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 ![Metrics](https://raw.githubusercontent.com/DaviFLimaAndrade/DaviFLimaAndrade/main/github-metrics.svg)
 
 </div>
----
 
 <br/>
 
