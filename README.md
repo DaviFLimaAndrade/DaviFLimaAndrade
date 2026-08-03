@@ -57,7 +57,7 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 #### 📂 Showcase (Open Source)
 | Projeto | Descrição | Techs / Arquitetura |
 | :--- | :--- | :--- |
-| 🤖 **[AI Data Assistant (Text-to-SQL)](#)** | Agente inteligente que converte linguagem natural em consultas SQL complexas com execução segura e sistema de auto-correção via LLM. | `FastAPI` `Next.js 15` `Gemini 3 Flash` `SQLite` |
+| 🤖 **[AI Data Assistant (Text-to-SQL)](https://github.com/DaviFLimaAndrade/ai-data-assistant)** | Agente inteligente que converte linguagem natural em consultas SQL complexas com execução segura e sistema de auto-correção via LLM. | `FastAPI` `Next.js 15` `Gemini 3 Flash` `SQLite` |
 
 #### 🏢 Enterprise & Corporativos (NDA)
 *Devido a restrições de propriedade intelectual e acordos de confidencialidade, o código-fonte destes projetos é privado.*
@@ -68,7 +68,6 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 | 🌌 **Sirius** | Plataforma de previsão de vendas e demanda baseada em modelos temporais (SARIMA) premiado em Hackhaton corporativo. | `Python` `FastAPI` `Docker` `SQL` |
 
 ---
-
 
 <br/>
 
