@@ -54,9 +54,11 @@ Atualmente atuando com Inteligência Artificial na **Bosch** e graduando em Gest
 ### 🚀 Projetos em Destaque
 
 #### 📂 Showcase (Open Source)
+
 | Projeto | Descrição | Techs / Arquitetura |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | 🤖 **[AI Data Assistant (Text-to-SQL)](https://github.com/DaviFLimaAndrade/-AI-Data-Assistant-Text-to-SQL-PoC-)** | Agente inteligente que converte linguagem natural em consultas SQL complexas com execução segura e sistema de auto-correção via LLM. | `FastAPI` `Next.js 15` `Gemini 3 Flash` `SQLite` |
+| 📊 **[RAG Financeiro (BCB Report Q&A)](https://github.com/DaviFLimaAndrade/rag_financeiro)** | Sistema de RAG em português sobre o Relatório de Estabilidade Financeira do Banco Central, com agente LangGraph que avalia a confiança do retrieval e reformula a pergunta automaticamente, e pipeline de avaliação contínua (LLM-as-judge) publicando métricas via CI. | `LangGraph` `LangChain` `Docling` `ChromaDB` `Groq/Gemini` `Streamlit` `Docker` |
 
 #### 🏢 Enterprise & Corporativos (NDA)
 *Devido a restrições de propriedade intelectual e acordos de confidencialidade, o código-fonte destes projetos é privado.*
